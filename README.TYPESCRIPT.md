@@ -1,0 +1,5 @@
+# TYPESCRIPT
+
+## SETTING UP TYPESCRIPT COMPILER SETTINGS
+
+- create tsconfig.json file
